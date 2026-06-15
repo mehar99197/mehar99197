@@ -3,11 +3,11 @@
 <!-- ====================================================================== -->
 
 <a href="https://github.com/mehar99197">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=anonhexor0001&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Computer%20Scientist%20·%20Security%20Researcher%20·%20Full-Stack%20%26%20ML%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ahmad%20Nawaz&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Computer%20Scientist%20·%20Security%20Researcher%20·%20Full-Stack%20%26%20ML%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </a>
 
 <p align="center">
-  <img width="210" src="https://raw.githubusercontent.com/mehar99197/mehar99197/main/assets/avatar.png" alt="anonhexor0001" />
+  <img width="210" src="https://raw.githubusercontent.com/mehar99197/mehar99197/main/assets/avatar.png" alt="Ahmad Nawaz" />
 </p>
 
 <p align="center">
