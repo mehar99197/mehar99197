@@ -7,6 +7,10 @@
 </a>
 
 <p align="center">
+  <img width="210" src="https://raw.githubusercontent.com/mehar99197/mehar99197/main/assets/avatar.png" alt="anonhexor0001" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2C9CF0&center=true&vCenter=true&width=820&lines=C%2B%2B+Data+Structures+%26+Algorithms+Specialist;Penetration+Tester+%7C+Bug+Bounty+Hunter;MERN+Stack+Developer+%7C+ML+Engineer;System+Architecture+%26+Scalable+Design;I+break+systems+to+understand+how+to+build+them." alt="Typing SVG" />
   </a>
@@ -114,10 +118,6 @@ Machine Learning Engineering        █████████████░�
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mehar99197&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehar99197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 <!-- Contribution snake — needs the snake.yml workflow below to render -->
