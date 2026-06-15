@@ -1,5 +1,5 @@
 <!-- ====================================================================== -->
-<!--                        anonhexor0001 · GitHub Profile                  -->
+<!--                        Ahmad Nawaz · GitHub Profile                  -->
 <!-- ====================================================================== -->
 
 <a href="https://github.com/mehar99197">
@@ -27,7 +27,7 @@
 
 ```c
 struct Engineer {
-    const char *handle  = "anonhexor0001";
+    const char *handle  = "Ahmad Nawaz";
     const char *role    = "Computer Scientist & Security Researcher";
     const char *core    = "Data Structures & Algorithms (C++)";
     const char *stack[] = { "MERN", "Machine Learning", "System Design", "Offensive Security" };
@@ -40,7 +40,7 @@ struct Engineer {
 - 🌐 **MERN Stack Developer** — production-grade apps with MongoDB, Express, React, Node.
 - 🤖 **ML Engineer** — from data pipelines to trained, deployed models.
 - 🏗️ **System Architecture & Design** — scalable, fault-tolerant, distributed systems.
-- 📫 Reach me: **tauseeqtufail@gmail.com**
+- 📫 Reach me: **meharahmad6599197@gmail.com**
 
 ---
 
@@ -142,7 +142,7 @@ Machine Learning Engineering        █████████████░�
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:tauseeqtufail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:meharahmad6599197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/mehar99197"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
   <!-- Add your real profile links below -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
