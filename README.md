@@ -113,7 +113,7 @@ Machine Learning Engineering        █████████████░�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehar99197&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=mehar99197&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" alt="streak" />
 </p>
 
 <p align="center">
